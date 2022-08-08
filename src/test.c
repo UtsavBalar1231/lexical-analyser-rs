@@ -2,9 +2,9 @@
 
 void main()
 {
-    int a = 1;
-    int b = 2;
-    int c = 3;
-
-    printf("%d\n", a + b + c);
+    int a, e = 10;
+    float b = 2.5;
+    float c;
+    c = a * b;
+    return 0;
 }
